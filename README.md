@@ -1,0 +1,2 @@
+# easygpt
+gazan
