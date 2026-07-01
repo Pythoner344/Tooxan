@@ -1,2 +1,2 @@
-# easygpt
-gazan
+# Tooxan
+Приобрести доступ - @justdirector
