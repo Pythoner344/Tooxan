@@ -1,0 +1,7 @@
+Выполните в консоли следующие команды:
+pkg update -y && pkg upgrade -y
+pkg install python -y
+python --version
+termux-setup-storage
+
+Если вы не можете войти в аккаунт, попробуйте включить впн
